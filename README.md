@@ -40,4 +40,4 @@ Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta
 
 ## 🔗 Deploy
 
-Para acessar meu deploy, basta <a href="#">clicar aqui</a>!
+Para acessar meu deploy, basta <a href="https://desafio-lacrei-six.vercel.app/">clicar aqui</a>!

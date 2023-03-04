@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# Desafio Front-End Lacrei
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Página desenvolvida como parte do processo seletivo para participar do programa de voluntariado da Lacrei, uma plataforma segura e acolhedora para comunidade LGBTQIAPN+.
 
-## Available Scripts
+![Capa do Desafio](public/banner.svg)
 
-In the project directory, you can run:
+## 🎯 Objetivo do desafio
 
-### `npm start`
+Avaliar sua capacidade de escrever código limpo, bem estruturado e reutilizável.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📝 Tarefas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Replicar layout de acordo com figma
+2. Executar navegação entre as telas
+3. Fazer deploy da aplicação
 
-### `npm test`
+## ⚙ Ferramentas requeridas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. React, Gatsby ou Next.js
+2. Styled-components
 
-### `npm run build`
+## 👩‍💻 Aspectos técnicos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta-se livre para utilizar de qualquer outra tecnologia.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔝 Bônus
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Entregar uma aplicação responsiva
+2. Utilizar TypeScript
+3. Implementar testes
 
-### `npm run eject`
+## 🔧 Tecnologias Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- TSX
+- Typescript
+- React
+- Styled Components
+- React Router DOM
+- Phosphor React
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔗 Deploy
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Para acessar meu deploy, basta <a href="#">clicar aqui</a>!
